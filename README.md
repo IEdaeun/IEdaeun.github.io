@@ -1,9 +1,4 @@
-# 공급망 최적화 모델 요약 보고서
-
-# SmartPhone Global Supply-Chain Challenge
-
-
-
+# 공급망 최적화 모델 요약 보고서 (SmartPhone Global Supply-Chain Challenge)
 ## 1단계 (Phase 1)
 
 탐색적 데이터 분석(EDA) 기반의 피처 엔지니어링과 이종 모델을 결합한 앙상블 기법을 활용하여 2023년부터 2024년까지의 일별 · SKU별 · 도시별 수요를 정밀하게 예측
